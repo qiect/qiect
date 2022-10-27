@@ -4,7 +4,6 @@
 - 🔭 I’m currently working in BeiJing.
 - 🤔 I’m looking for help with .Net development.
 - 📫 Reach me: [qctvip@vip.163.com](mailto:qctvip@vip.163.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/qiect?label=follow%20me&style=social)](https://github.com/qiect/)
 
 
 
