@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qiect&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qiect&show_icons=false">
 
 ### Hi there, I’m [Chet](https://github.com/qiect) 👋 
 - 🔭 I’m currently working in BeiJing.
